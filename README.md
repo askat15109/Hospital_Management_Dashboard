@@ -1,7 +1,7 @@
 # 🏥 Hospital Patient Management Dashboard - Power BI
 
 This project is an interactive Power BI dashboard designed to analyze and monitor key metrics related to hospital operations, patient flow, and doctor performance. It provides hospital administrators with valuable insights to improve healthcare service quality, operational efficiency, and patient care.
-
+   
 ---
 
 ## 📊 Dashboard Overview
